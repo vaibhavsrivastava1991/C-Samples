@@ -1,0 +1,1 @@
+D:\WPF-Samples\C-Sharp-Samples\ConsoleApplication1\CreateXmlWithChildNodes\CreateXmlWithChildNodes\bin\Debug\CreateXmlWithChildNodes.exe.config
