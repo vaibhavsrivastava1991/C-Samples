@@ -1,0 +1,1 @@
+D:\WPF-Samples\C-Sharp-Samples\SerializeDeserializeListOfObjectIntoJson\SerializeDeserializeListOfObjectIntoJson\bin\Debug\SerializeDeserializeListOfObjectIntoJson.exe.config
